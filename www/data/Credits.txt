@@ -1,0 +1,151 @@
+<block:-1,-1,10,250,offbot,Right,Buttergod>
+NFT COLLECTOR
+
+\c[2]Tezos Chain 
+Lauren McDonagh - Pereira Photography
+NataNikung
+Kumoto Sakti
+Pamelacorals
+IDNFT - Indonesian NFT
+Johanna Moreau
+RVNT ILLUSART
+James Glohe
+Monimel.tez
+grayergroove - FSYP
+Shilly Preston
+OMEN | Art Collective
+mkassemart
+GalangFerm
+Bonesy
+Maliksi Zaragova
+</block>
+
+<block:-1,-1,10,250,offbot,Left,gareng cave>
+
+\c[2]Opensea
+Unnamed/0xa2....69 (1st Collector)
+amal-chadran
+grayergroove - FSYP
+LazyMushroomHead - Mohammad Rizki.Fr
+MIZAKI OFFICIAL
+Ukraina_Ura
+BlackRing
+CollectionOfAll
+Youtube_Sweesh
+NFTSMADEMERICH
+Kakashi76
+MrFakir
+Silverloo
+Cghow
+3dSpectorArtist
+lordwan-2
+SomebodyToLoveCollection
+SoundBoxNFT
+Kowsarr
+WormholesMeta
+Jospin
+ThelnusCreator
+King-Jnr
+TruArt74
+PhileasNFTs
+Topmanlion
+KORN-ELL
+RomanRich2_0
+ABM1
+Savagefighter
+PuffyIsland
+EarthSaver1219
+jwag51
+Hero23
+TahirJadi-01
+lahcen-oumzane
+riky28
+FartnRoses
+DYRKxASH
+rare_reallife
+Ojezy
+The_Legendary_Collector
+makobottle
+Israeladoga
+Baron81
+Kuredavis
+Bimbolek
+EliMES
+CollectionOfAll
+Raamargia
+marina_gecko
+Gottacom
+ZEE-DON
+Edy-De-Mous
+SetrixFLX
+aosmonster
+Shamsb
+Kingwordline
+
+</block>
+
+<block:-1,-1,10,250,offbot,center,ginseng guardian home>
+
+\c[2]Engine
+RPG Maker MV version 1.6.1
+
+\c[2]Plugin Programmer
+Galv
+LMPGames
+SumRndmDde
+Agri Binka
+
+\c[2]Artwork
+Piskell App
+RPG Maker MV
+Dreamstudio
+
+\c[2]NFT Marketplace
+Opensea
+OBJKT
+Akaswap
+Airnfts
+Refinable
+
+\c[2]NFT Collection
+Wayang Binka
+Farmer Art NFT
+Ginseng King
+UnderwearETH
+Agriculture Art
+Binka Holiday
+VegePunk
+Panties V2
+plantONEnft
+Photo Farm
+</block>
+
+<block:-1,0,10,10,100,left,yellow>
+
+\c[2]Thanks for NFT Community
+IDNFT
+Satu Sekte
+NFT Nusantara
+Metarupa
+Harmony ID
+TezTown
+TezosID
+
+</block>
+
+</block>
+
+<block:-1,-1,10,250,offbot,Left,lava slime zone>
+\c[2]OFFICIAL
+linktr.ee/pantiesia
+
+</block>
+
+<block:999,0,10,10,250,center,fire bridge>
+\c[2]THE END
+1st Pantiesia Land
+
+\c[2]Warm Regard
+Agri_binka
+</block>
+
